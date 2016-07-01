@@ -4,7 +4,7 @@ $:.push File.expand_path("../lib", __FILE__)
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_multi_currency'
-  s.version     = '2.4.0'
+  s.version     = '3.3.0'
   s.summary     = 'Add gem summary here'
   s.required_ruby_version = '>= 1.9.3'
   s.authors     = ["Pronix LLC"]
